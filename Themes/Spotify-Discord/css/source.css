@@ -23,9 +23,9 @@
   --popout-color: #282828;
   --popout-radius: 7px;
   --popout-radius-small: 3px;
-  --menu-hover-color: rgba(255,255,255,0.1);
-  --menu-select-color: rgba(255,255,255,0.3);
-  --menu-border-color: rgba(255,255,255,0.1);
+  --menu-hover-color: rgba(200,200,200,0.1);
+  --menu-select-color: rgba(200,200,200,0.3);
+  --menu-border-color: rgba(200,200,200,0.1);
   --menu-text-color: #b2b2b2;
   --input-color: #e0e0e0;
   --input-text-color: #333;
